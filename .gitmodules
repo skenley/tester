@@ -1,0 +1,3 @@
+[submodule "DependencyTest"]
+	path = DependencyTest
+	url = https://github.com/AntonioXIII/DependencyTest.git
